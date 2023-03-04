@@ -1,4 +1,4 @@
-#  Markdown syntax
+#  Markdown Syntax - 1
 
 $$ 
 \sum_{i = 1}^n \alpha \frac{1}{2}\{\}
